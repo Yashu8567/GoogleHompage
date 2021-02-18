@@ -1,0 +1,1 @@
+Keep all of these in one folder or you can change the location address in Google.html file
